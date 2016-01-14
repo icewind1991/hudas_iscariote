@@ -17,11 +17,12 @@
 		"name_width_minmode"	"80"
 		"status_width"		"15"
 		"nemesis_width"		"15"
-		"class_width"		"15"
+		"class_width"		"20"
 		"score_width"		"25"
 		"ping_width"		"19"
 		"stats_width"		"30"
-		"killstreak_width"	"20"
+		"killstreak_width"	"15"
+		"killstreak_image_width"	"15"
 	}
 	"BluePlayerList"
 	{
